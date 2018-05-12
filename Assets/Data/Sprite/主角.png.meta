@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 8be0ec88d129a354aa30fce9c45b5737
+timeCreated: 1434619551
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u8DF32"
+    21300002: "\u7AD9\u7ACB"
+    21300004: "\u8DD11"
+    21300006: "\u8DD1\u62532"
+    21300008: "\u8DD13"
+    21300010: "\u8DD14"
+    21300012: "\u659C\u4E0A\u8DD1\u62531"
+    21300014: "\u8DD15"
+    21300016: "\u8DD16"
+    21300018: "\u722C\u6253"
+    21300020: "\u7AD9\u6253"
+    21300022: "\u659C\u4E0B\u8DD1\u62531"
+    21300024: "\u659C\u4E0B\u8DD1\u62532"
+    21300026: "\u659C\u4E0B\u8DD1\u62533"
+    21300028: "\u659C\u4E0A\u8DD1\u62533"
+    21300030: "\u8DD12"
+    21300032: "\u8DF3"
+    21300034: "\u8DD1\u62531"
+    21300036: "\u4E0A\u6253"
+    21300038: "\u659C\u4E0A\u8DD1\u62532"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "\u8DF32"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 611
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u7AD9\u7ACB"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 697
+        width: 55
+        height: 72
+      alignment: 9
+      pivot: {x: .337316334, y: .515534282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u8DD11"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 696
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u8DD1\u62532"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 590
+        width: 62
+        height: 72
+      alignment: 9
+      pivot: {x: .409999996, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u8DD13"
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 694
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u8DD14"
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 696
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u659C\u4E0A\u8DD1\u62531"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 577
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u8DD15"
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 697
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u8DD16"
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 694
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u722C\u6253"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 480
+        width: 82
+        height: 35
+      alignment: 9
+      pivot: {x: .261520743, y: .680745125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u7AD9\u6253"
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 472
+        width: 52
+        height: 70
+      alignment: 9
+      pivot: {x: .274159372, y: .476033241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u659C\u4E0B\u8DD1\u62531"
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 477
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u659C\u4E0B\u8DD1\u62532"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 477
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u659C\u4E0B\u8DD1\u62533"
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 479
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u659C\u4E0A\u8DD1\u62533"
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 580
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u8DD12"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 700
+        width: 53
+        height: 71
+      alignment: 9
+      pivot: {x: .469999999, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u8DF3"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 612
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u8DD1\u62531"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 587
+        width: 63
+        height: 76
+      alignment: 9
+      pivot: {x: .375727564, y: .492642045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u4E0A\u6253"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 475
+        width: 45
+        height: 100
+      alignment: 9
+      pivot: {x: .381839335, y: .366256118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u659C\u4E0A\u8DD1\u62532"
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 579
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\UnityEditor.dll
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\UnityEngine.dll
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\UnityEngine.xml
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\UnityEditor.xml
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+F:\Uniy\ContraDiceEdit\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+F:\Uniy\ContraDiceEdit\obj\Debug\UnityVS.ContraDiceEdit.CSharp.Plugins.csprojResolveAssemblyReference.cache
+F:\Uniy\ContraDiceEdit\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\Uniy\ContraDiceEdit\obj\Debug\Assembly-CSharp-firstpass.pdb
